@@ -46,6 +46,7 @@ tests.
 In the `App` component, pass down data from the `user` object as props to the
 `Home` component so that it renders correctly. There is some starter code for
 you in the `Home` component that should give you a clue as to what props this
+
 component takes in.
 
 `App` should also pass down a prop of `bio` to the `About` component.
